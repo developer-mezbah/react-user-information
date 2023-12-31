@@ -9,6 +9,7 @@ const Home = () => {
       <br />
       <br />
       <br />
+      <h1 className="container">All User Information</h1>
       <br />
       <br />
       <div className="section_our_solution">
